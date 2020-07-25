@@ -1,0 +1,72 @@
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\bin\Debug\Neutrino Screen Capture.exe.config
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\bin\Debug\Neutrino Screen Capture.exe.manifest
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\bin\Debug\Neutrino Screen Capture.application
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\bin\Debug\Neutrino Screen Capture.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\bin\Debug\Neutrino Screen Capture.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\bin\Debug\Neutrino Screen Capture.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Neutrino_Screen_Capture.About_Neutrino_Screen_Capture.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Neutrino_Screen_Capture.Convert_Image.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Neutrino_Screen_Capture.File__Name_Editor.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Neutrino_Screen_Capture.Help.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Neutrino_Screen_Capture.Resources.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Neutrino_Screen_Capture.Area_Capture.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Neutrino_Screen_Capture.Neutrino_Screen_Capture_Image_Viewer.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Neutrino_Screen_Capture.screencapture.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Neutrino_Screen_Capture.Timer_Capture.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Neutrino Screen Capture.TrustInfo.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Neutrino Screen Capture.exe.manifest
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Neutrino Screen Capture.application
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Neutrino Screen Capture.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Neutrino Screen Capture.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Neutrino Screen Capture.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Copy of Screen Capture\bin\Debug\Neutrino Screen Capture.exe.config
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino Screen Capture.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino Screen Capture.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino Screen Capture.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Copy of Screen Capture\bin\Debug\Neutrino Screen Capture.exe.manifest
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Copy of Screen Capture\bin\Debug\Neutrino Screen Capture.application
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Copy of Screen Capture\bin\Debug\Neutrino Screen Capture.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Copy of Screen Capture\bin\Debug\Neutrino Screen Capture.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Copy of Screen Capture\bin\Debug\Neutrino Screen Capture.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Copy of Screen Capture\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino_Screen_Capture.About_Neutrino_Screen_Capture.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino_Screen_Capture.Convert_Image.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino_Screen_Capture.File__Name_Editor.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino_Screen_Capture.Help.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino_Screen_Capture.Resources.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino_Screen_Capture.Area_Capture.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino_Screen_Capture.Neutrino_Screen_Capture_Image_Viewer.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino_Screen_Capture.screencapture.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino_Screen_Capture.Timer_Capture.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Copy of Screen Capture\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Copy of Screen Capture\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino Screen Capture.TrustInfo.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino Screen Capture.exe.manifest
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino Screen Capture.application
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Scren Capture\Copy of Screen Capture\bin\Debug\Neutrino Screen Capture.exe.config
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Scren Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino Screen Capture.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Scren Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino Screen Capture.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Scren Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino Screen Capture.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Scren Capture\Copy of Screen Capture\bin\Debug\Neutrino Screen Capture.exe.manifest
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Scren Capture\Copy of Screen Capture\bin\Debug\Neutrino Screen Capture.application
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Scren Capture\Copy of Screen Capture\bin\Debug\Neutrino Screen Capture.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Scren Capture\Copy of Screen Capture\bin\Debug\Neutrino Screen Capture.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Scren Capture\Copy of Screen Capture\bin\Debug\Neutrino Screen Capture.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Scren Capture\Copy of Screen Capture\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Scren Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino_Screen_Capture.About_Neutrino_Screen_Capture.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Scren Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino_Screen_Capture.Convert_Image.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Scren Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino_Screen_Capture.File__Name_Editor.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Scren Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino_Screen_Capture.Help.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Scren Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino_Screen_Capture.Resources.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Scren Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino_Screen_Capture.Area_Capture.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Scren Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino_Screen_Capture.Neutrino_Screen_Capture_Image_Viewer.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Scren Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino_Screen_Capture.screencapture.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Scren Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino_Screen_Capture.Timer_Capture.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Scren Capture\Copy of Screen Capture\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Scren Capture\Copy of Screen Capture\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Scren Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino Screen Capture.TrustInfo.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Scren Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino Screen Capture.exe.manifest
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino Scren Capture\Copy of Screen Capture\obj\x86\Debug\Neutrino Screen Capture.application

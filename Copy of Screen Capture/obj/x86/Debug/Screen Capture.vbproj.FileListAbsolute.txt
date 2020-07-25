@@ -1,0 +1,36 @@
+C:\Users\Shakir\AppData\Local\Temporary Projects\Screen Capture\bin\Debug\Screen Capture.exe
+C:\Users\Shakir\AppData\Local\Temporary Projects\Screen Capture\bin\Debug\Screen Capture.pdb
+C:\Users\Shakir\AppData\Local\Temporary Projects\Screen Capture\bin\Debug\Screen Capture.xml
+C:\Users\Shakir\AppData\Local\Temporary Projects\Screen Capture\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shakir\AppData\Local\Temporary Projects\Screen Capture\obj\x86\Debug\Screen_Capture.About_Neutrino_Screen_Capture.resources
+C:\Users\Shakir\AppData\Local\Temporary Projects\Screen Capture\obj\x86\Debug\Screen_Capture.Resources.resources
+C:\Users\Shakir\AppData\Local\Temporary Projects\Screen Capture\obj\x86\Debug\Screen_Capture.screencapture.resources
+C:\Users\Shakir\AppData\Local\Temporary Projects\Screen Capture\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Shakir\AppData\Local\Temporary Projects\Screen Capture\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Shakir\AppData\Local\Temporary Projects\Screen Capture\obj\x86\Debug\Screen Capture.exe
+C:\Users\Shakir\AppData\Local\Temporary Projects\Screen Capture\obj\x86\Debug\Screen Capture.xml
+C:\Users\Shakir\AppData\Local\Temporary Projects\Screen Capture\obj\x86\Debug\Screen Capture.pdb
+C:\Users\Shakir\AppData\Local\Temporary Projects\Screen Capture\obj\x86\Debug\Screen_Capture.Area_Capture.resources
+C:\Users\Shakir\AppData\Local\Temporary Projects\Screen Capture\bin\Debug\Screen Capture.exe.config
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Screen_Capture.About_Neutrino_Screen_Capture.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Screen_Capture.Resources.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Screen_Capture.Area_Capture.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Screen_Capture.screencapture.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Screen_Capture.Convert_Image.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Screen_Capture.Help.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\bin\Debug\Neutrino Screen Capture.exe.config
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\bin\Debug\Neutrino Screen Capture.exe.manifest
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\bin\Debug\Neutrino Screen Capture.application
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\bin\Debug\Neutrino Screen Capture.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\bin\Debug\Neutrino Screen Capture.pdb
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\bin\Debug\Neutrino Screen Capture.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Screen_Capture.Timer_Capture.resources
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Neutrino Screen Capture.TrustInfo.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Neutrino Screen Capture.exe.manifest
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Neutrino Screen Capture.application
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Neutrino Screen Capture.exe
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Neutrino Screen Capture.xml
+F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Screen Capture\Screen Capture\obj\x86\Debug\Neutrino Screen Capture.pdb

@@ -1,0 +1,32 @@
+My.Computer.Audio.Play(Application.StartupPath + "\Camera.wav")
+        Dim bounds As Rectangle
+        Dim screenshot As System.Drawing.Bitmap
+        Dim graph As Graphics
+        bounds = Screen.PrimaryScreen.Bounds
+        screenshot = New System.Drawing.Bitmap(bounds.Width, bounds.Height, My.Settings.PixelFormat)
+        graph = Graphics.FromImage(screenshot)
+        graph.CopyFromScreen(bounds.X, bounds.Y, 0, 0, bounds.Size, CopyPixelOperation.SourceCopy)
+        Neutrino_Screen_Capture_Image_Viewer.PictureBox1.Image = screenshot
+        If CheckBox4.Checked = True Then
+            Timer1.Enabled = True
+            If My.Settings.Trasparent = False Then Me.Opacity = My.Settings.Transparency Else Me.Opacity = 0
+        Else
+            Timer1.Enabled = False
+            Me.Opacity = 100
+            If My.Settings.MessageShow = True Then MsgBox("Neutrino Screen Capture captured your screen." + vbCrLf + "File Name :   " + My.Settings.FileName + vbCrLf + "Folder :     " + (My.Settings.Default_Directory).ToString, MsgBoxStyle.Information, "Neutrino Screen Capture")
+            Neutrino_Screen_Capture_Image_Viewer.WindowState = FormWindowState.Maximized
+            If My.Settings.ImageViewer = True Then Neutrino_Screen_Capture_Image_Viewer.Show()
+            Me.ShowInTaskbar = True
+        End If
+        Try
+            screenshot.Save((My.Settings.Default_Directory + "\" + My.Settings.FileName + (My.Settings.AutomaticNmber).ToString + "." + (My.Settings.FileFormat).ToString).ToString, My.Settings.FileFormat)
+        Catch ex As Exception
+            MsgBox("Sorry ! An error occured to save the image file. Please try again.", MsgBoxStyle.OkOnly + MsgBoxStyle.Critical, "Error")
+        End Try
+        My.Settings.AutomaticNmber = My.Settings.AutomaticNmber + 1
+        If My.Settings.NotificationShow = True Then
+            NotifyIcon1.BalloonTipTitle = "Screen Captured"
+            NotifyIcon1.BalloonTipText = "Neutrino Screen Capture captured your screen."
+            NotifyIcon1.ShowBalloonTip(My.Settings.NotificationDuration)
+
+        End If
